@@ -8,10 +8,6 @@
 4. Learn about the different types of variables in Ruby
 5. Learn about the scoping of these variable types
 
-## Video
-
-[If you need it](http://learn-co-videos.s3.amazonaws.com/ruby/about-variables-ruby.mp4)
-
 ## Variables in Ruby
 Let's dive right in:
 
@@ -219,3 +215,4 @@ To solve this test failure, create a local variable `greeting` in the `variable.
 
 - [ZetCode Ruby Variables](http://zetcode.com/lang/rubytutorial/variables/)
 - [Wikibooks: Ruby Programming/Syntax/Variables and Constants](http://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Variables_and_Constants)
+- [Video review, f you need it](http://learn-co-videos.s3.amazonaws.com/ruby/about-variables-ruby.mp4)
