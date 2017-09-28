@@ -215,4 +215,4 @@ To solve this test failure, create a local variable `greeting` in the `variable.
 
 - [ZetCode Ruby Variables](http://zetcode.com/lang/rubytutorial/variables/)
 - [Wikibooks: Ruby Programming/Syntax/Variables and Constants](http://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Variables_and_Constants)
-- [Video review, f you need it](http://learn-co-videos.s3.amazonaws.com/ruby/about-variables-ruby.mp4)
+- [Video review, if you need it](http://learn-co-videos.s3.amazonaws.com/ruby/about-variables-ruby.mp4)
